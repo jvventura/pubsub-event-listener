@@ -2,12 +2,13 @@ var path = require('path');
 var webpack = require('webpack');
 
 module.exports = {
-    entry: [
-        './src/main.js',
-    ],
+    entry: {
+        'main': './src/main.js',
+        'example': './src/example.js'
+    },
     output: {
         path: './dist',
-        filename: 'main-built.js'
+        filename: '[name].built.js',
     },
     module: {
         resolveLoader: {

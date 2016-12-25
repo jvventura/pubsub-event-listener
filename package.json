@@ -2,7 +2,7 @@
   "name": "joianalytics-core-tag",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "./dist/main.built.js",
   "dependencies": {},
   "devDependencies": {
     "babel-cli": "^6.18.0",
