@@ -1,7 +1,7 @@
 {
-  "name": "joianalytics-core-tag",
+  "name": "pubsub-event-listener",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple pubsub wrapper for event listening and handling.",
   "main": "./dist/main.built.js",
   "dependencies": {},
   "devDependencies": {
@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jvventura/joianalytics-core-tag.git"
+    "url": "git+https://github.com/jvventura/pubsub-event-listener.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jvventura/joianalytics-core-tag/issues"
+    "url": "https://github.com/jvventura/pubsub-event-listener/issues"
   },
-  "homepage": "https://github.com/jvventura/joianalytics-core-tag#readme"
+  "homepage": "https://github.com/jvventura/pubsub-event-listener#readme"
 }
